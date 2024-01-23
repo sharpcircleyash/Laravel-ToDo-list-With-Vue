@@ -17,8 +17,8 @@ Laravel ToDo list With Vue is a Complete Build of Sinle page application.
 - ** Install composer, node, php-mysql, php-ext and php-dom
 - ** Run composer update from the projects root folder
 - ** From the projects root folder run:
-        From the projects root folder run php artisan key:generate
-        From the projects root folder run php artisan migrate
-        From the projects root folder run npm install
-        From the projects root folder run npm run dev
-        From the projects root folder run php artisan serve
+        ** From the projects root folder run php artisan key:generate
+        ** From the projects root folder run php artisan migrate
+        ** From the projects root folder run npm install
+        ** From the projects root folder run npm run dev
+        ** From the projects root folder run php artisan serve
